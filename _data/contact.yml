@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: zhifei-mona-ma-6095
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: MonaMaNotAvailable
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: monapw
 
 #The email you'd like people to contact you with.
-email: /
+email: zma4.mona@gmail.com

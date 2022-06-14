@@ -1,36 +1,33 @@
-header: Say something about what you're good at
+header: My Expertise
 
-subheader: Give some more context
+subheader: Technical skills from back-end to front-end
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: MACHINE LEARNING
+    description: I have experience training NLP models including BERT, NLTK, SpaCy. I completed school projects using TensorFlow, Keras, PyTorch. I am familiar with NumPy, Pandas, Scikit-learn. My primary language is Python.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: BACK END & DATA ANALYSIS
+    description: I am proficient in SQL. I have experience using Microsoft Azure Databricks with Apache Spark (pySpark). I am learning MongoDB and AWS. I am familiar with Power BI and Excel. I am a MATLAB expert.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: WEB DEVELOPMENT
+    description: I just learnt JavaScript, React, HTML, and CSS to build this portfolio! I am familiar with Git and I will be posting more projects on Github over the summer.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: AWS Certified Cloud Practitioner (in progress)
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - Cloud fluency and foundational AWS knowledge
+      - Basic understanding of IT services and their uses in the AWS Cloud platform
+      - Knowledge of core AWS services and use cases
 
-  - name: Certification 2
+  - name: AWS Certified Developer - Associate (in progress)
     topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+      - Proficiency in developing, deploying, and debugging cloud-based applications using AWS and writing code for serverless applications
+      - Ability to identify key features of AWS services and use the AWS service APIs, AWS CLI, and SDKs to write application
 
-  - name: Certification 3
+  - name: Google Cloud Digital Leader (in progress)
     topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - Digital transformation with Google Cloud
+      - Infrastructure and application modernization
+      - Innovating with data and Google Cloud
+      - Google Cloud security and operations

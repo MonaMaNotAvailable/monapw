@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Connect Lite (Jahnel Group)
+  description: Built solid foundations in frontend development during summer internship and developed a Lite Version of internal product Connect to quantify people's skills.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Personal Portfolio
+  description: Self-studied React, JavaScrip, HTML, and CSS to build a <a href="https://monamanotavailable.github.io/monarox/">personal website</a>.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Market Prediction with Angelo Gordon (Major Qualifying Project)
+  description: Practiced Agile Methodology in a group of 3 to analyze Google Trends for job markets prediction and conducted sentiment analysis on Reddit Wallstreetbets comments by training a BERT Machine Learning model for Natural Language Processing. Created Power BI dashboard to compare sentiments with actual stock prices over time.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Robotics Engineering 3001 Unified Robotics III
+  description: Interacted with robot arm using MATLAB and implemented real-time vision-based control algorithms to execute complex manipulation tasks. Worked in a team of 3 to solve real-world robot kinematic problems.
